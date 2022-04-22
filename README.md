@@ -1,5 +1,5 @@
                                                    Hi there, I am Ayush Chaurasia 👋 !
-[![HitCount](https://hits.dwyl.com/ayushraut2111/ayushraut2111.svg?style=flat-square)](http://hits.dwyl.com/ayushraut2111/ayushraut2111)
+[![HitCount](https://hits.dwyl.com/ayushraut2111/ayushraut2111.svg?style=flat-square&show=unique)](http://hits.dwyl.com/ayushraut2111/ayushraut2111)
 
                                                
 
