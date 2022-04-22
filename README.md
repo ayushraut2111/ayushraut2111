@@ -1,4 +1,5 @@
                                                    Hi there, I am Ayush Chaurasia 👋 !
+https://camo.githubusercontent.com/4a8b84d78cee35b4b592b1d681ce6e8a642699ac03cfd0bdc0ee9ec02475976a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d6f6864616e61733037266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174                                                   
 
 - 🔭 I’m currently working on gaining skills and acquiring Knowledge
 
