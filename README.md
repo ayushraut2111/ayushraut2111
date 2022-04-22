@@ -1,4 +1,4 @@
-                                                      ### Hi there, I am Ayush Chaurasia 👋 !
+                                                   ### Hi there, I am Ayush Chaurasia 👋 !
 
 🔭 I’m currently working on gaining skills and acquiring Knowledge
 
