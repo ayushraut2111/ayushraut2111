@@ -10,7 +10,6 @@
 - 💬 Ask me about anything
 
 - How to reach me: ayushraut2111@gmail.com
-- [![MasterHead](https://media-exp1.licdn.com/dms/imag...)](https://ayushraut2111.github.io)
 <!--
 **ayushraut2111/ayushraut2111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
