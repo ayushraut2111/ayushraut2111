@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi there, I am Ayush Chaurasia 👋 !
+🔭 I’m currently working on gaining skills and acquiring Knowledge
+🌱 I’m currently learning React
+💬 Ask me about anything
+How to reach me: ayushraut2111@gmail.com
 <!--
 **ayushraut2111/ayushraut2111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
