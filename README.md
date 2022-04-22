@@ -1,5 +1,5 @@
                                                    Hi there, I am Ayush Chaurasia 👋 !
-profile views:[![HitCount](https://hits.dwyl.com/ayushraut2111/ayushraut2111.svg?style=flat-square)](http://hits.dwyl.com/ayushraut2111/ayushraut2111)
+profile views:  [![Profile Views](https://hits.dwyl.com/ayushraut2111/ayushraut2111.svg?style=flat-square)](http://hits.dwyl.com/ayushraut2111/ayushraut2111)
                                                
 
 - 🔭 I’m currently working on gaining skills and acquiring Knowledge
