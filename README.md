@@ -1,5 +1,5 @@
                                                    Hi there, I am Ayush Chaurasia 👋 !
- [![HitCount](https://hits.dwyl.com/ayushraut2111/ayushraut2111.svg?style=flat&show=unique)](http://hits.dwyl.com/ayushraut2111/ayushraut2111)
+ [p align="left"][img src="https://komarev.com/ghpvc/?username="ayushraut2111" alt="ayushraut2111" /][/p]
 
                                                
 
