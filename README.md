@@ -31,7 +31,6 @@
 <br/><br/>
 
  <br/>
- <hr>
 
 <br/>
 
@@ -40,6 +39,7 @@
 ![github graph](https://activity-graph.herokuapp.com/graph?username=ayushraut2111&theme=react-dark)
 
 <br/>
+<hr>
 <!--
 **ayushraut2111/ayushraut2111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
