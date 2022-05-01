@@ -12,6 +12,7 @@
 - How to reach me: ayushraut2111@gmail.com
 
 <br/>  
+<hr>
 
 <div>
 <a href="https://newgithub-readme-stats.vercel.app/api?username=ayushraut2111&show_icons=true&count_private=true&theme=radical">
