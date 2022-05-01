@@ -1,4 +1,4 @@
-                                                <b>   Hi there, I am Ayush Chaurasia 👋 !  <b>
+                                                   Hi there, I am Ayush Chaurasia 👋 !  
    <p align="left"><img src="https://komarev.com/ghpvc/?username=ayushraut2111" alt="ayushraut2111" /></p>
 
                                                
