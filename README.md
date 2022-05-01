@@ -11,8 +11,6 @@
 
 - How to reach me: ayushraut2111@gmail.com
 
-<br/>
-<h2><summary align="center">Github Stats 📈</summary></h2>
 <br/>  
 
 <div>
