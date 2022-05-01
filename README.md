@@ -11,14 +11,35 @@
 
 - How to reach me: ayushraut2111@gmail.com
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushraut2111&show_icons=true&locale=en" alt="ayushraut2111" /></p>
+<br/>
+<h2><summary align="center">Github Stats 📈</summary></h2>
+<br/>  
+
+<div>
+<a href="https://newgithub-readme-stats.vercel.app/api?username=ayushraut2111&show_icons=true&count_private=true&theme=radical">
+  <img  align="left" src="https://newgithub-readme-stats.vercel.app/api?username=ayushraut2111&show_icons=true&count_private=true&theme=radical"  />
+</a>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushraut2111&hide=php&theme=radical">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushraut2111&hide=jupyter Notebook,php&theme=radical" height="195" width="250" />
   
-</a>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=ayushraut2111&theme=react-dark)
+</a>
+</div>
+
+
+
+
+
+
+
+<br/><br/>
+<br/><br/>
+
+ <br/>
+
+<br/>
+<br/>
 <!--
 **ayushraut2111/ayushraut2111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
