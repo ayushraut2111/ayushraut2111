@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on gaining skills and acquiring Knowledge
 
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning Django
 
 - 💬 Ask me about anything
 
