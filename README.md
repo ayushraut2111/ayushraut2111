@@ -1,10 +1,12 @@
-                                                  <hr>
-<h2 align="center">⚡ About ⚡</h2>
-<br>
+
                                                   Hi there, I am Ayush Chaurasia 👋 !  
+                                                  
                                                    
    <p align="left"><img src="https://komarev.com/ghpvc/?username=ayushraut2111" alt="ayushraut2111" /></p>
 
+ <hr>
+<h2 align="center">⚡ About ⚡</h2>
+<br>
                                                
 
 - 🔭 I’m currently working on gaining skills and acquiring Knowledge
