@@ -34,6 +34,7 @@
     <a href="https://github.com/ayushraut2111/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ayushraut2111&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
+    <img src="https://activity-graph.herokuapp.com/graph?username=ayushraut2111&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
   </div>
   <br><br><br><br><br><br><br><br>
   <div align=center>
