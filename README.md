@@ -41,6 +41,6 @@
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushraut2111&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=6&layout=compact&border_color=61dafb&hide_border=true" />   
     </a>
     <br><br>
-    <img src="https://activity-graph.herokuapp.com/graph?username=ayushraut2111&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+    <img src="https://camo.githubusercontent.com/e14543a4058aebeff186e9567780471d4be8d2be813f304a235e6b9e27b35ad1/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d6b616d6c6573686a6f73686938313032267468656d653d7265616374" alt="github graph" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=ayushraut2111&amp;theme=react" style="max-width: 100%;">
   </div>
   <br>
