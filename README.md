@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on gaining skills and acquiring Knowledge
 
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Django & React
 
 - 💬 Ask me about anything
 
-- How to reach me: ayushraut2111@gmail.com
+- How to reach me: ayushchaurasiacse@gmail.com
 
 <br/>  
 <hr>
