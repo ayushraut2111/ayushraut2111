@@ -15,7 +15,7 @@
 
 - 💬 Ask me about anything
 
-- How to reach me: ayushchaurasiacse@gmail.com  or  https://www.linkedin.com/in/ayush-chaurasia-53722217a/
+- How to reach me: ayushchaurasiacse@gmail.com
 
 <br/>  
 <hr>
