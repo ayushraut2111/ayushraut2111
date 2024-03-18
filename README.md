@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on gaining skills and acquiring Knowledge
 
-- 🌱 I’m currently learning NextJs
+- 🌱 I’m currently learning NextJs & DevOps
 
 - 💬 Ask me about anything
 
