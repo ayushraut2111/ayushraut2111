@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on gaining skills and acquiring Knowledge
 
-- 🌱 I’m currently learning GoLang
+- 🌱 I’m currently working on something cool and experimental
 
 - 💬 Ask me about anything
 
